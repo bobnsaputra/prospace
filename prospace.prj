@@ -6,6 +6,7 @@
    <UUID>b38cebad-32c1-4e5c-bade-ded812c76bfc</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Code\Katalon\prospace\prospace.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
